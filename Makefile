@@ -1,0 +1,1 @@
+terraform plan -var-file="resources.tfvars" -var-file="storage.tfvars" -var-file="vnet.tfvars"
